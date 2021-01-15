@@ -5,7 +5,7 @@ I’m just a Computer Engineering Student who wants to make people's life easier
 - 🔭 I’m currently working on Cross-platform apps (React Native).
 - 🌱 I’m currently learning real-time services on Node.js.
 - 👯 I’m looking to collaborate on new generation real-time chat and socializing app.
-- 📝 I regularly write articles on [https://onuryasar.online/blog]
+- 📝 I occasionally write articles on [https://onuryasar.online/blog]
 
 
 #### 💻 Languages
