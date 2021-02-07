@@ -23,4 +23,3 @@ I’m just a Computer Engineering Student who wants to make people's life easier
 <a href="https://www.hackerrank.com/onuryasar" target="_blank">![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-1ba94c?style=flat&logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/onuryasar)</a>
 <a href="https://www.linkedin.com/in/onur-yasar/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onur-yasar/)</a>
 <a href="https://instagram.com/onur.yasar.js" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/onur.yasar.js)</a>
-<a href="https://github.com/thorakna" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/thorakna)</a>
