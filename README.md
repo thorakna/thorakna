@@ -8,9 +8,9 @@ I’m just a Computer Engineering Student who wants to make people's life easier
 - 📝 I occasionally write articles on https://onuryasar.online/blog
 
 #### 🌀 The Projects that I don't want to push to Github
-Dopami - New generation music app - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.dpm)
+- Dopami - New generation music app - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.dpm)
 
-Uludag Student & Personnel - Quick access to Uludağ University web services - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.uludagogrenci)
+- Uludag Student & Personnel - Quick access to Uludağ University web services - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.uludagogrenci)
 
 #### 💻 Languages
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
