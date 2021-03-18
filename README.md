@@ -2,8 +2,8 @@
 I’m just a Computer Engineering Student who wants to make people's life easier by creating useful apps. You can get more information about me on my personal website https://www.onuryasar.online.
 
 - 🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University.
-- 🔭 I’m currently working on Cross-platform apps (React Native).
-- 🌱 I’m currently learning Dart language to develop Flutter apps.
+- 🔭 I’m currently working on cross-platform apps (React Native, Electron.js).
+- 🌱 I’m currently learning Flutter, Express.js, and MongoDB.
 - 👯 I’m looking to collaborate on new generation real-time chat and socializing app.
 - 📝 I occasionally write articles on https://onuryasar.online/blog
 
