@@ -7,7 +7,7 @@ I’m just a Computer Engineering Student who wants to make people's life easier
 - 👯 I’m looking to collaborate on new generation real-time chat and socializing app.
 - 📝 I occasionally write articles on https://onuryasar.online/blog
 
-#### 🌀 The Projects that I don't want to push to Github
+#### 🌀 The Projects that I didn't push to Github
 - Dopami - New generation music app - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.dpm)
 
 - Uludag Student & Personnel - Quick access to Uludağ University web services - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.uludagogrenci)
