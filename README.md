@@ -8,7 +8,7 @@ I’m just a Computer Engineering Student who wants to make people's life easier
 - 📝 I occasionally write articles on https://onuryasar.online/blog
 
 #### 🌀 The Projects that I didn't push to Github
-- Dopami - New generation music app - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.dpm)
+- Dopami - New generation music app (BETA) - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.dpm)
 
 - Uludag Student & Personnel - Quick access to Uludağ University web services - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.uludagogrenci)
 
