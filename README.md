@@ -2,7 +2,7 @@
 I’m just a Computer Engineering Student who wants to make people's life easier by creating useful apps. You can get more information about me on my personal website https://www.onuryasar.online.
 
 - 🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University.
-- 🔭 I’m currently working on cross-platform apps (React Native, Electron.js).
+- 🔭 I’m currently working on cross-platform real-time apps (React Native, Electron.js).
 - 🌱 I’m currently learning SimpleAI, Functional Programming, and Cloud Computing.
 - 👯 I’m open to work on React.js, React Native projects.
 - 📝 I occasionally write articles on https://onuryasar.online/blog
