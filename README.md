@@ -3,8 +3,7 @@ I’m just a Computer Engineering Student who wants to make people's life easier
 
 - 🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University.
 - 🔭 I’m currently working on cross-platform real-time apps (React Native, Electron.js).
-- 🌱 I’m currently learning Svelte, Typescript, Tailwindcss.
-- 👯 I’m open to work on React.js, React Native projects.
+- 🌱 I’m currently learning Go Programming Language.
 - 📝 I occasionally write articles on https://onuryasar.online/blog
 
 #### 🌀 The Projects that I didn't push to Github
