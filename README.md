@@ -1,9 +1,7 @@
 ### Hi there I'm Onur YAŞAR 👋
-I’m just a Computer Engineering Student who wants to make people's life easier by creating useful apps. You can get more information about me on my personal website https://www.onuryasar.online.
+I’m just a Computer Engineer who wants to make people's life easier by creating useful apps. You can get more information about me on my personal website https://www.onuryasar.online.
 
-- 🎓 I’m currently studying Computer Engineering at Manisa Celal Bayar University.
-- 🔭 I’m currently working on web apps (Svelte, React.js).
-- 🌱 I’m currently learning Go Programming Language.
+- 🔭 I’m currently working on web apps and web services (Svelte, React.js, Golang).
 - 📝 I occasionally write articles on https://onuryasar.online/blog
 
 #### 🌀 The Projects that I didn't push to Github
