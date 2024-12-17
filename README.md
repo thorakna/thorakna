@@ -6,7 +6,6 @@ I’m just a Computer Engineer who wants to make people's life easier by creatin
 
 #### 🌀 The Projects that I didn't push to Github
 - MCBÜ Mobil - [Get it on Google Play](https://play.google.com/store/apps/details?id=tr.edu.mcbu.ieeecbucstech) | [Available on the App Store](https://apps.apple.com/tr/app/mcb%C3%BC-mobil/id1640856305)
-- Dopami - New generation music app (BETA) - [Get it on Google Play](https://play.google.com/store/apps/details?id=io.onuryasar.dpm)
 
 #### 💻 Languages
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
