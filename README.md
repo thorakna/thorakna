@@ -1,5 +1,19 @@
-### Hi there I'm Onur YAŞAR 👋
-I’m just a Computer Engineer who wants to make people's life easier by creating useful apps. You can get more information about me on my personal website https://www.onuryasar.online.
+I’m Onur YAŞAR, a Full Stack Developer at Geliver—a platform that automates and optimizes the entire shipping process while offering instant courier discounts of up to 70%.
+
+I specialize in building scalable, real-time applications using modern technologies like Golang, React.js, React Native, Svelte, TypeScript, Tailwind CSS, and Node.js.
+
+At Geliver, I’ve contributed to a wide range of systems involving:
+- System integrations with stores and shipping providers
+- Batch processing using Redis and distributed locking
+- CI/CD automation, observability, and error tracking
+- Machine learning-based services for document validation
+
+I’m passionate about transforming complex problems into elegant code and shipping products that make people’s lives easier.
+
+Feel free to explore my work or reach out:
+🔗 onuryasar.online
+💻 github.com/thorakna
+📩 onuryasar@mail.com
 
 - 🔭 I’m currently working on web apps and web services (Svelte, React.js, Golang).
 - 📝 I occasionally write articles on https://onuryasar.online/blog
