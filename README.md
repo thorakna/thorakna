@@ -12,7 +12,6 @@ I’m passionate about transforming complex problems into elegant code and shipp
 
 Feel free to explore my work or reach out:
 🔗 onuryasar.online
-💻 github.com/thorakna
 📩 onuryasar@mail.com
 
 - 🔭 I’m currently working on web apps and web services (Svelte, React.js, Golang).
