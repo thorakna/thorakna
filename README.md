@@ -11,7 +11,7 @@ At Geliver, I’ve contributed to a wide range of systems involving:
 I’m passionate about transforming complex problems into elegant code and shipping products that make people’s lives easier.
 
 Feel free to explore my work or reach out:
-🔗 onuryasar.online
+🔗 https://onuryasar.online
 📩 onuryasar@mail.com
 
 - 🔭 I’m currently working on web apps and web services (Svelte, React.js, Golang).
